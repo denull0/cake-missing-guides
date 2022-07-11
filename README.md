@@ -6,7 +6,7 @@ I decided to start this repo after experiencing some issues with my Osa. Everyon
 Sometimes when riding on uneven surfaces the plastic fender would flex and bang on the wheel. The solution from Cake is to cut 5cm from the fender.
 
 ### Rattling noise from the motor.
-Take a video and contact their support. But you can check to make sure you have the correct belt tension (25-30mm). If this doesn't help, check if the front sprocket is properly tightened.
+Take a video and contact their support. But you can check to make sure you have the correct belt tension (25-30mm). If this doesn't help, check if the front sprocket is properly tightened, before jumping to terminal conclusions. 
 
 ### How to see % of battery remaining?
 Hold the middle and bottom buttons for 5 seconds and you'll see the Info screen. Look for "SoC".
